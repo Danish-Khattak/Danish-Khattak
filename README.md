@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Danish Khattak</h1>
 
 - 📖 I'm a research assistant at Information Processing and Transmission (IPT) Lab, NUST
-- ✨ Passionate about wielding AI as a dominant force to conquer the ever-evolving challenges of global connectivity ヾ(≧▽≦)ゝ  
 - 🧠 Harnessing reinforcement learning–driven intelligence for adaptive network optimization and real-time performance tuning within 6G networks (●’◡’●)  
 - 🤝 Always game for wild collabs—deep dives or quick sprints! ༼ つ ◕_◕ ༽つ  
 
