@@ -74,6 +74,15 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
+
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/latex/latex-icon.svg" alt="latex" width="40" height="40"/>
+</a>
+
+<a href="https://www.zotero.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/zotero/zotero-icon.svg" alt="zotero" width="40" height="40"/>
+</a>
+
 </p>
 
 <h3 align="left">Contact Me:</h3>
