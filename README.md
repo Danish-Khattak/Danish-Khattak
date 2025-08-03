@@ -79,14 +79,15 @@
 
   <!-- LaTeX -->
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968509.png" alt="LaTeX" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968509.png" alt="LaTeX" width="40" height="40" style="background-color:white; border-radius:8px; padding:4px;"/>
   </a>
 
   <!-- Zotero -->
   <a href="https://www.zotero.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968746.png" alt="Zotero" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968746.png" alt="Zotero" width="40" height="40" style="background-color:white; border-radius:8px; padding:4px;"/>
   </a>
 </div>
+
 
 
 </p>
