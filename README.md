@@ -71,17 +71,18 @@
   </a>
 
   <!-- Other (Computer Vision) -->
+  <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
-
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/latex/latex-icon.svg" alt="latex" width="40" height="40"/>
-</a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/latex.svg" alt="LaTeX" width="40" height="40" style="background-color:white; border-radius:5px;" />
+  </a>
+  <a href="https://www.zotero.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/zotero.svg" alt="Zotero" width="40" height="40" style="background-color:white; border-radius:5px;" />
+  </a>
+</div>
 
-<a href="https://www.zotero.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/zotero/zotero-icon.svg" alt="zotero" width="40" height="40"/>
-</a>
 
 </p>
 
