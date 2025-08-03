@@ -71,17 +71,20 @@
   </a>
 
   <!-- Other (Computer Vision) -->
+<div style="display: flex; gap: 10px; align-items: center;">
+  <!-- OpenCV -->
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968509.png" alt="LaTeX" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.zotero.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968746.png" alt="Zotero" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   </a>
 
+  <!-- LaTeX -->
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968509.png" alt="LaTeX" width="40" height="40"/>
+  </a>
+
+  <!-- Zotero -->
+  <a href="https://www.zotero.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968746.png" alt="Zotero" width="40" height="40"/>
   </a>
 </div>
 
